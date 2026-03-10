@@ -87,6 +87,7 @@ public class PlagiarismDetector {
         String essay2 = "Artificial intelligence is transforming the world with new innovations";
         String essay3 = "Sports and fitness are important for a healthy lifestyle";
 
+
         detector.addDocument("essay_089.txt", essay1);
         detector.addDocument("essay_092.txt", essay2);
 
